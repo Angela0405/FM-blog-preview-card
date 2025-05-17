@@ -8,8 +8,8 @@ This is my solution to the [Blog preview card challenge on Frontend Mentor](http
 
 ## 🔗 Live Demo
 
-- Live Site URL: [https://your-live-site-url.com](https://your-live-site-url.com)  
-- Solution Repo: [https://github.com/yourusername/blog-preview-card](https://github.com/yourusername/blog-preview-card)
+- Live Site URL: [https://angela0405.github.io/FM-blog-preview-card/)  
+- Solution Repo: [https://github.com/Angela0405/FM-blog-preview-card)
 
 ## 🛠️ Built With
 
