@@ -37,7 +37,7 @@ In the future, I’d like to keep practicing:
 
 ## 🙋‍♀️ Author
 
-- Frontend Mentor: [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor: [@Angela](https://www.frontendmentor.io/profile/Angela)
 
 ## 🙏 Acknowledgments
 
