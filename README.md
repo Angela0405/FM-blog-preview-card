@@ -35,10 +35,6 @@ In the future, I’d like to keep practicing:
 - Accessibility improvements
 - Better font and spacing control
 
-## 🙋‍♀️ Author
-
-- Frontend Mentor: [@Angela](https://www.frontendmentor.io/profile/Angela)
-
 ## 🙏 Acknowledgments
 
 Thanks to Frontend Mentor for providing a clear and beginner-friendly challenge!
