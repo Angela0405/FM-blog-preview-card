@@ -2,7 +2,7 @@
 
 This is my solution to the [Blog preview card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS). Frontend Mentor challenges help improve your HTML and CSS skills by building realistic projects.
 
-## 🖼️ Screenshot
+## Screenshot
 
 ![Screenshot of my solution](/assets/images/screenshot.png)
 
@@ -11,14 +11,14 @@ This is my solution to the [Blog preview card challenge on Frontend Mentor](http
 - Live Site URL: [https://angela0405.github.io/FM-blog-preview-card/)  
 - Solution Repo: [https://github.com/Angela0405/FM-blog-preview-card)
 
-## 🛠️ Built With
+## Built With
 
 - Semantic HTML5
 - CSS (mobile-first)
 - Hover effect with `:hover`
 - Flexbox
 
-## 💡 What I Learned
+## What I Learned
 
 This project helped me practice:
 
@@ -27,7 +27,7 @@ This project helped me practice:
 - Matching colors and font styles using the provided style guide
 - Understanding how to follow a simple design system
 
-## 🚧 Continued Development
+## Continued Development
 
 In the future, I’d like to keep practicing:
 
@@ -35,6 +35,6 @@ In the future, I’d like to keep practicing:
 - Accessibility improvements
 - Better font and spacing control
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 Thanks to Frontend Mentor for providing a clear and beginner-friendly challenge!
